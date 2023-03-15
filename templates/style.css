@@ -1,0 +1,17 @@
+h1 {
+    font-family: Helvetica;
+    padding: 20px 20px 20px 20px;
+    background-color: aquamarine;
+}
+
+menu {
+    padding: 20px 20px 20px 20px;
+    background-color: rgb(222, 147, 13);
+    font-family: Arial;
+}
+
+body {
+    background-color: aqua;
+    font-family: 'Trebuchet MS';
+    
+}
